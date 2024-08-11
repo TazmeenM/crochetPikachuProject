@@ -35,12 +35,6 @@ Don't cut off the yarn; the head will continue into the body
 
 Attach the eyes, sew on the cheek circles and ears, and stitch the mouth and nose
 
-.
-
-.
-
-.
-
 ...
 
 For the cheek circles:
@@ -54,12 +48,6 @@ Row 2: 6 increasing stitches/an increasing stitch in each stitch (12 stitches to
 Row 3: A single crochet in each of the first two stitches
 
 I sewed on the cheek circles around row 12 of the head, since that's where the "cheeks" were (since the head got wider at that point due to the increasing stitches), and I attached the eyes around row 10 of the head (right above the top of the cheek circles)
-
-.
-
-.
-
-.
 
 ...
 
@@ -87,12 +75,6 @@ Take the last stitch off the hook, cut the yarn, and pull the yarn through to cr
 
 Repeat these steps to create the other ear
 
-.
-
-.
-
-.
-
 ...
 
 For the arms:
@@ -108,12 +90,6 @@ Take the last stitch off the hook, cut the yarn, and pull the yarn through to cr
 Add stuffing
 
 Repeat these steps to create the other arm
-
-.
-
-.
-
-.
 
 ...
 
@@ -140,12 +116,6 @@ Row 8: 3 decreasing stitches (6 stitches)
 **Stuffing can be added after either row 6 or row 7
 
 Take the last stitch off the hook, cut the yarn, and pull the yarn through to create a slip knot
-
-.
-
-.
-
-.
 
 ...
 
@@ -188,12 +158,6 @@ Take the last stitch off the hook, cut the yarn, and pull the yarn through to cr
 Repeat these steps to make the other side of the tail
 
 Sew the two sides of the tail together, stuffing the tail each time you reach the bottom of one "line" of a zigzag.
-
-.
-
-.
-
-.
 
 ...
 
