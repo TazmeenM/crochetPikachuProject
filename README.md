@@ -79,6 +79,8 @@ Repeat these steps to create the other ear
 
 For the arms:
 
+Use yellow yarn
+
 Row 1: 6 single crochets in a magic ring
 
 Row 2: 6 increasing stitches/an increasing stitch in each stitch (12 stitches total)
@@ -94,6 +96,8 @@ Repeat these steps to create the other arm
 ...
 
 For the feet:
+
+Use yellow yarn
 
 Row 1: 6 single stitches in a magic ring
 
@@ -120,6 +124,8 @@ Take the last stitch off the hook, cut the yarn, and pull the yarn through to cr
 ...
 
 For the tail:
+
+Use yellow yarn
 
 Row 1: 18 chain stitches, plus 1 chain stitch (19)
 
