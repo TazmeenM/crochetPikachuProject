@@ -1,4 +1,7 @@
 # crochetPikachuProject
+Final Product (instructions below):
+![IMG_20240810_231742325~2](https://github.com/user-attachments/assets/b25024a6-2c53-45f3-ad3a-8127dfb85b8d)
+
 For the head:
 
 Use yellow yarn
